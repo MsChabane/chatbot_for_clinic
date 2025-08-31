@@ -6,3 +6,4 @@ langchain-huggingface==0.3.1
 streamlit
 python-dotenv
 chromadb==1.0.20
+sentence-transformers==5.1.0
