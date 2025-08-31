@@ -20,7 +20,7 @@ chain = (
 
 )
 
-print(chain.invoke("what is the director of the clinic"))
+#print(chain.invoke("what is the director of the clinic"))
 
 
 
